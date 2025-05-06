@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adops-Chat/static/css/main.bcd61c59.css",
+    "main.js": "/Adops-Chat/static/js/main.d3a8f0f9.js",
+    "static/js/453.53f10d97.chunk.js": "/Adops-Chat/static/js/453.53f10d97.chunk.js",
+    "index.html": "/Adops-Chat/index.html",
+    "main.bcd61c59.css.map": "/Adops-Chat/static/css/main.bcd61c59.css.map",
+    "main.d3a8f0f9.js.map": "/Adops-Chat/static/js/main.d3a8f0f9.js.map",
+    "453.53f10d97.chunk.js.map": "/Adops-Chat/static/js/453.53f10d97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd61c59.css",
+    "static/js/main.d3a8f0f9.js"
+  ]
+}
